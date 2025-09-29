@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "28918127127",
+    "project_id": "eggfirejackpot123",
+    "storage_bucket": "eggfirejackpot123.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28918127127:android:23a509391a6db033999a52",
+        "android_client_info": {
+          "package_name": "com.ANS.EggFireJackpot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq51H5PKEZ6mBRoJKcV-lc0fk8-zBJsPk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

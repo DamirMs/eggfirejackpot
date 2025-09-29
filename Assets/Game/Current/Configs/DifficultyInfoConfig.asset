@@ -1,0 +1,435 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc18d1b9ded54a4584a1df118a121f2f, type: 3}
+  m_Name: DifficultyInfoConfig
+  m_EditorClassIdentifier: 
+  difficultyInfos:
+  - interactableSpawnChances:
+      keys: 0100000004000000
+      values:
+      - 0.4
+      - 0.6
+    spawnChance: 0.4
+    pinValueRange: {x: 1, y: 3}
+  - interactableSpawnChances:
+      keys: 0100000004000000
+      values:
+      - 0.4
+      - 0.6
+    spawnChance: 0.4
+    pinValueRange: {x: 1, y: 5}
+  - interactableSpawnChances:
+      keys: 0100000004000000
+      values:
+      - 0.4
+      - 0.6
+    spawnChance: 0.4
+    pinValueRange: {x: 1, y: 7}
+  - interactableSpawnChances:
+      keys: 0100000004000000
+      values:
+      - 0.4
+      - 0.6
+    spawnChance: 0.4
+    pinValueRange: {x: 1, y: 9}
+  - interactableSpawnChances:
+      keys: 0100000004000000
+      values:
+      - 0.4
+      - 0.6
+    spawnChance: 0.4
+    pinValueRange: {x: 8, y: 12}
+  - interactableSpawnChances:
+      keys: 0100000004000000
+      values:
+      - 0.4
+      - 0.6
+    spawnChance: 0.4
+    pinValueRange: {x: 8, y: 16}
+  - interactableSpawnChances:
+      keys: 0100000004000000
+      values:
+      - 0.4
+      - 0.6
+    spawnChance: 0.4
+    pinValueRange: {x: 8, y: 20}
+  - interactableSpawnChances:
+      keys: 0100000004000000
+      values:
+      - 0.4
+      - 0.6
+    spawnChance: 0.4
+    pinValueRange: {x: 12, y: 23}
+  - interactableSpawnChances:
+      keys: 0100000004000000
+      values:
+      - 0.4
+      - 0.6
+    spawnChance: 0.4
+    pinValueRange: {x: 12, y: 26}
+  - interactableSpawnChances:
+      keys: 0100000004000000
+      values:
+      - 0.4
+      - 0.6
+    spawnChance: 0.4
+    pinValueRange: {x: 16, y: 30}
+  - interactableSpawnChances:
+      keys: 0100000004000000
+      values:
+      - 0.4
+      - 0.6
+    spawnChance: 0.4
+    pinValueRange: {x: 20, y: 38}
+  - interactableSpawnChances:
+      keys: 0100000004000000
+      values:
+      - 0.4
+      - 0.2
+    spawnChance: 0.6
+    pinValueRange: {x: 30, y: 46}
+  - interactableSpawnChances:
+      keys: 0100000004000000
+      values:
+      - 0.4
+      - 0.2
+    spawnChance: 0.9
+    pinValueRange: {x: 40, y: 70}
+  - interactableSpawnChances:
+      keys: 0100000004000000
+      values:
+      - 0.4
+      - 0.2
+    spawnChance: 0.6
+    pinValueRange: {x: 40, y: 50}
+  - interactableSpawnChances:
+      keys: 0100000004000000
+      values:
+      - 0.4
+      - 0.2
+    spawnChance: 0.6
+    pinValueRange: {x: 40, y: 50}
+  - interactableSpawnChances:
+      keys: 0100000004000000
+      values:
+      - 0.4
+      - 0.2
+    spawnChance: 0.8
+    pinValueRange: {x: 60, y: 70}
+  - interactableSpawnChances:
+      keys: 0100000004000000
+      values:
+      - 0.4
+      - 0.2
+    spawnChance: 0.8
+    pinValueRange: {x: 60, y: 70}
+  - interactableSpawnChances:
+      keys: 0100000004000000
+      values:
+      - 0.4
+      - 0.2
+    spawnChance: 0.8
+    pinValueRange: {x: 60, y: 70}
+  - interactableSpawnChances:
+      keys: 0100000004000000
+      values:
+      - 0.4
+      - 0.2
+    spawnChance: 0.8
+    pinValueRange: {x: 70, y: 80}
+  - interactableSpawnChances:
+      keys: 0100000004000000
+      values:
+      - 0.4
+      - 0.2
+    spawnChance: 0.8
+    pinValueRange: {x: 60, y: 90}
+  - interactableSpawnChances:
+      keys: 0100000004000000
+      values:
+      - 0.4
+      - 0.2
+    spawnChance: 0.8
+    pinValueRange: {x: 100, y: 100}
+  - interactableSpawnChances:
+      keys: 0100000004000000
+      values:
+      - 0.4
+      - 0.2
+    spawnChance: 0.8
+    pinValueRange: {x: 110, y: 110}
+  - interactableSpawnChances:
+      keys: 0100000004000000
+      values:
+      - 0.4
+      - 0.2
+    spawnChance: 1
+    pinValueRange: {x: 120, y: 120}
+  - interactableSpawnChances:
+      keys: 0100000004000000
+      values:
+      - 0.4
+      - 0.2
+    spawnChance: 1
+    pinValueRange: {x: 120, y: 120}
+  - interactableSpawnChances:
+      keys: 0100000004000000
+      values:
+      - 0.4
+      - 0.2
+    spawnChance: 1
+    pinValueRange: {x: 120, y: 120}
+  - interactableSpawnChances:
+      keys: 0100000004000000
+      values:
+      - 0.4
+      - 0.2
+    spawnChance: 1
+    pinValueRange: {x: 120, y: 120}
+  - interactableSpawnChances:
+      keys: 0100000004000000
+      values:
+      - 0.4
+      - 0.2
+    spawnChance: 1
+    pinValueRange: {x: 120, y: 120}
+  - interactableSpawnChances:
+      keys: 0100000004000000
+      values:
+      - 0.4
+      - 0.2
+    spawnChance: 1
+    pinValueRange: {x: 120, y: 120}
+  - interactableSpawnChances:
+      keys: 0100000004000000
+      values:
+      - 0.4
+      - 0.2
+    spawnChance: 1
+    pinValueRange: {x: 120, y: 120}
+  - interactableSpawnChances:
+      keys: 0100000004000000
+      values:
+      - 0.4
+      - 0.2
+    spawnChance: 1
+    pinValueRange: {x: 120, y: 120}
+  - interactableSpawnChances:
+      keys: 0100000004000000
+      values:
+      - 0.4
+      - 0.2
+    spawnChance: 1
+    pinValueRange: {x: 120, y: 120}
+  - interactableSpawnChances:
+      keys: 0100000004000000
+      values:
+      - 0.4
+      - 0.2
+    spawnChance: 1
+    pinValueRange: {x: 120, y: 120}
+  - interactableSpawnChances:
+      keys: 0100000004000000
+      values:
+      - 0.4
+      - 0.2
+    spawnChance: 1
+    pinValueRange: {x: 120, y: 120}
+  - interactableSpawnChances:
+      keys: 0100000004000000
+      values:
+      - 0.4
+      - 0.2
+    spawnChance: 1
+    pinValueRange: {x: 120, y: 120}
+  - interactableSpawnChances:
+      keys: 0100000004000000
+      values:
+      - 0.4
+      - 0.2
+    spawnChance: 1
+    pinValueRange: {x: 120, y: 120}
+  - interactableSpawnChances:
+      keys: 0100000004000000
+      values:
+      - 0.4
+      - 0.2
+    spawnChance: 1
+    pinValueRange: {x: 120, y: 120}
+  - interactableSpawnChances:
+      keys: 0100000004000000
+      values:
+      - 0.4
+      - 0.2
+    spawnChance: 1
+    pinValueRange: {x: 120, y: 120}
+  - interactableSpawnChances:
+      keys: 0100000004000000
+      values:
+      - 0.4
+      - 0.2
+    spawnChance: 1
+    pinValueRange: {x: 120, y: 120}
+  - interactableSpawnChances:
+      keys: 0100000004000000
+      values:
+      - 0.4
+      - 0.2
+    spawnChance: 1
+    pinValueRange: {x: 120, y: 120}
+  - interactableSpawnChances:
+      keys: 0100000004000000
+      values:
+      - 0.4
+      - 0.2
+    spawnChance: 1
+    pinValueRange: {x: 120, y: 120}
+  - interactableSpawnChances:
+      keys: 0100000004000000
+      values:
+      - 0.4
+      - 0.2
+    spawnChance: 1
+    pinValueRange: {x: 120, y: 120}
+  - interactableSpawnChances:
+      keys: 0100000004000000
+      values:
+      - 0.4
+      - 0.2
+    spawnChance: 1
+    pinValueRange: {x: 120, y: 120}
+  - interactableSpawnChances:
+      keys: 0100000004000000
+      values:
+      - 0.4
+      - 0.2
+    spawnChance: 1
+    pinValueRange: {x: 120, y: 120}
+  - interactableSpawnChances:
+      keys: 0100000004000000
+      values:
+      - 0.4
+      - 0.2
+    spawnChance: 1
+    pinValueRange: {x: 120, y: 120}
+  - interactableSpawnChances:
+      keys: 0100000004000000
+      values:
+      - 0.4
+      - 0.2
+    spawnChance: 1
+    pinValueRange: {x: 120, y: 120}
+  - interactableSpawnChances:
+      keys: 0100000004000000
+      values:
+      - 0.4
+      - 0.2
+    spawnChance: 1
+    pinValueRange: {x: 120, y: 120}
+  - interactableSpawnChances:
+      keys: 0100000004000000
+      values:
+      - 0.4
+      - 0.2
+    spawnChance: 1
+    pinValueRange: {x: 120, y: 120}
+  - interactableSpawnChances:
+      keys: 0100000004000000
+      values:
+      - 0.4
+      - 0.2
+    spawnChance: 1
+    pinValueRange: {x: 120, y: 120}
+  - interactableSpawnChances:
+      keys: 0100000004000000
+      values:
+      - 0.4
+      - 0.2
+    spawnChance: 1
+    pinValueRange: {x: 120, y: 120}
+  - interactableSpawnChances:
+      keys: 0100000004000000
+      values:
+      - 0.4
+      - 0.2
+    spawnChance: 1
+    pinValueRange: {x: 120, y: 120}
+  - interactableSpawnChances:
+      keys: 0100000004000000
+      values:
+      - 0.4
+      - 0.2
+    spawnChance: 1
+    pinValueRange: {x: 120, y: 120}
+  - interactableSpawnChances:
+      keys: 0100000004000000
+      values:
+      - 0.4
+      - 0.2
+    spawnChance: 1
+    pinValueRange: {x: 120, y: 120}
+  - interactableSpawnChances:
+      keys: 0100000004000000
+      values:
+      - 0.4
+      - 0.2
+    spawnChance: 1
+    pinValueRange: {x: 120, y: 120}
+  - interactableSpawnChances:
+      keys: 0100000004000000
+      values:
+      - 0.4
+      - 0.2
+    spawnChance: 1
+    pinValueRange: {x: 120, y: 120}
+  - interactableSpawnChances:
+      keys: 0100000004000000
+      values:
+      - 0.4
+      - 0.2
+    spawnChance: 1
+    pinValueRange: {x: 120, y: 120}
+  - interactableSpawnChances:
+      keys: 0100000004000000
+      values:
+      - 0.4
+      - 0.2
+    spawnChance: 1
+    pinValueRange: {x: 120, y: 120}
+  - interactableSpawnChances:
+      keys: 0100000004000000
+      values:
+      - 0.4
+      - 0.2
+    spawnChance: 1
+    pinValueRange: {x: 120, y: 120}
+  - interactableSpawnChances:
+      keys: 0100000004000000
+      values:
+      - 0.4
+      - 0.2
+    spawnChance: 1
+    pinValueRange: {x: 120, y: 120}
+  - interactableSpawnChances:
+      keys: 0100000004000000
+      values:
+      - 0.4
+      - 0.2
+    spawnChance: 1
+    pinValueRange: {x: 120, y: 120}
+  - interactableSpawnChances:
+      keys: 0100000004000000
+      values:
+      - 0.4
+      - 0.2
+    spawnChance: 1
+    pinValueRange: {x: 120, y: 120}

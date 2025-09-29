@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id">
+  <string name="gcm_defaultSenderId" translatable="false">28918127127</string>
+  <string name="google_storage_bucket" translatable="false">eggfirejackpot123.firebasestorage.app</string>
+  <string name="project_id" translatable="false">eggfirejackpot123</string>
+  <string name="google_api_key" translatable="false">AIzaSyAq51H5PKEZ6mBRoJKcV-lc0fk8-zBJsPk</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAq51H5PKEZ6mBRoJKcV-lc0fk8-zBJsPk</string>
+  <string name="google_app_id" translatable="false">1:28918127127:android:23a509391a6db033999a52</string>
+</resources>
