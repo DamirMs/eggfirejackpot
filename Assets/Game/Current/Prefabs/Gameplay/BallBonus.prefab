@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 5266398131166383783}
   - component: {fileID: 4056494391636661668}
   - component: {fileID: 4977855352499874540}
-  - component: {fileID: 2967820595009894310}
+  - component: {fileID: 3192144160915502049}
   m_Layer: 11
   m_Name: BallBonus
   m_TagString: Untagged
@@ -88,12 +88,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 972221711e72c3940ba1f4f1f5515807, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 91797410b5d3178499ac8c472dc1fe26, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 1.28, y: 1.72}
+  m_Size: {x: 1.28, y: 1.28}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -126,8 +126,8 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
---- !u!60 &2967820595009894310
-PolygonCollider2D:
+--- !u!58 &3192144160915502049
+CircleCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -155,42 +155,9 @@ PolygonCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 1
+  m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 0.85333335, y: 1.1466666}
-    newSize: {x: 1.28, y: 1.72}
-    adaptiveTilingThreshold: 0.5
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
-  m_Points:
-    m_Paths:
-    - - {x: 0.40666667, y: -0.2}
-      - {x: 0.40666667, y: 0.02}
-      - {x: 0.3866667, y: 0.11333334}
-      - {x: 0.36, y: 0.20666668}
-      - {x: 0.28, y: 0.34666666}
-      - {x: 0.24000001, y: 0.4}
-      - {x: 0.11333334, y: 0.52000004}
-      - {x: 0.08, y: 0.54}
-      - {x: -0.046666667, y: 0.54}
-      - {x: -0.10666667, y: 0.5266667}
-      - {x: -0.14666668, y: 0.48000002}
-      - {x: -0.29333335, y: 0.32666668}
-      - {x: -0.32666668, y: 0.26000002}
-      - {x: -0.3866667, y: 0.120000005}
-      - {x: -0.40666667, y: 0.02}
-      - {x: -0.40666667, y: -0.23333333}
-      - {x: -0.3, y: -0.42000002}
-      - {x: -0.18666667, y: -0.52000004}
-      - {x: -0.1, y: -0.56}
-      - {x: 0.1, y: -0.56}
-      - {x: 0.18666667, y: -0.5266667}
-      - {x: 0.33333334, y: -0.4}
-      - {x: 0.39333335, y: -0.28}
-  m_UseDelaunayMesh: 0
+  m_Offset: {x: -0.01464121, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.59607655
