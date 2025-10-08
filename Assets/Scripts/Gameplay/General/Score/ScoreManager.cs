@@ -55,7 +55,7 @@ namespace Gameplay.General.Score
         {
             TotalScoreReactive.Value += Mathf.RoundToInt(value * _multiplier.Current);
             
-            _currencyManager.Add(1);
+            _currencyManager.Add(CurrencyType.Gold, 1);
         }
 
         private void ResetScore()
