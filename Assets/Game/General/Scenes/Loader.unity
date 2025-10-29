@@ -385,8 +385,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5cd2a64ad36d13e4098eefbdcaa8f19e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  devKey: 
-  appleID: 
+  devKey: buX9oib55BYtrkjDqu7WNj
+  appleID: 6753795287
   maxAwaitTime: 10
   analyticsURL: https://neonpopglow.com
   loadingScreenObject: {fileID: 1453916814}
